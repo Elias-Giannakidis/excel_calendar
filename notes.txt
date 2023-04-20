@@ -1,0 +1,3 @@
+repo balance: -repo! min difference 1 max difference 31 min score 0 max score -465
+weekend +score > 31 => 
+weekend = 40
